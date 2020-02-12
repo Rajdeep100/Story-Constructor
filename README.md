@@ -1,4 +1,4 @@
-# Story-Reconstructor
+# Story-Constructor
 A simple python program to replace your names with the story characters!!
 ==========================================================================================================================================
 
